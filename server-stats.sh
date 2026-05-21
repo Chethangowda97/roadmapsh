@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "tub supi balu"
 # server-stats.sh
 # Basic Linux Server Performance Statistics
 
